@@ -17,5 +17,5 @@ class CSVFile():
 
 
 
-# file = CSVFile('shampoo_sales.txt')
-# print(file.get_data())
+file = CSVFile('shampoo_sales.txt')
+print(file.get_data())
